@@ -1,0 +1,8 @@
+{
+    "name": "Only Bytes Mission Rewards",
+    "description": "Replaces all physical item rewards with some amount of bytes, according to perceived difficulty of the quest. Does not replace specialty items, such as snails or anniversary event items.",
+    "website_url": "https://github.com/BPalen-MC/Byte-Mission-Rewards",
+    "version_number": "1.0.0",
+    "dependencies": [
+    ]
+}
