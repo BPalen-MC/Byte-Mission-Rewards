@@ -1,0 +1,9 @@
+{
+     "schema_version": 2,
+     "name": "Only Bytes Mission Rewards",
+     "mod_id": "ByteMissionRewards",
+     "author": "BPalen",
+     "description": "Replaces all physical item rewards with some amount of bytes, according to perceived difficulty of the quest. Does not replace specialty items, such as snails or anniversary event items.",
+     "version": "1.0.0",
+     "game_build": "1.36.43.0"
+}
